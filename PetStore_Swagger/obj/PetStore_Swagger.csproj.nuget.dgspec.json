@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TRAINING\\RESTC#\\PetStore_Swagger\\PetStore_Swagger\\PetStore_Swagger.csproj": {}
+  },
+  "projects": {
+    "D:\\TRAINING\\RESTC#\\PetStore_Swagger\\PetStore_Swagger\\PetStore_Swagger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TRAINING\\RESTC#\\PetStore_Swagger\\PetStore_Swagger\\PetStore_Swagger.csproj",
+        "projectName": "PetStore_Swagger",
+        "projectPath": "D:\\TRAINING\\RESTC#\\PetStore_Swagger\\PetStore_Swagger\\PetStore_Swagger.csproj",
+        "packagesPath": "C:\\Users\\Sanket.Vaidya\\.nuget\\packages\\",
+        "outputPath": "D:\\TRAINING\\RESTC#\\PetStore_Swagger\\PetStore_Swagger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sanket.Vaidya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/bentleycs/_packaging/AssetWise/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.12.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
